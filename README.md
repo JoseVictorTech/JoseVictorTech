@@ -46,7 +46,15 @@
 </p>
 
 ---
+## 🌐 Portfólio
 
+🔗 **Acesse meu portfólio online:**
+👉 https://josevictortech.github.io/portifolio-simples/
+
+📂 **Repositório do portfólio:**
+👉 https://github.com/JoseVictorTech/portifolio-simples
+
+---
 ## 🚀 Filosofia
 
 > _"Acredito no aprendizado contínuo, na prática diária e na disciplina como base para evoluir na programação e alcançar meus objetivos na área de tecnologia."_
